@@ -1,5 +1,7 @@
 # mrcuber1.github.io
-fun game
+fun games
+
+By: mrcuber1000
 
 Block Breaker : http://mrcuber1000.github.io/mrcuber1.github.io/block_breaker.html 
 
